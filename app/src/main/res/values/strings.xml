@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dev Options</string>
+    <string name="welcome_text">Welcome to Dev Options</string>
+    <string name="subtitle">Let\'s quickly turn ON Developer Options</string>
+    <string name="instruction_one">1. Let\'s check whether Developer Options is enabled</string>
+    <string name="enabled">It\'s Enabled</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="instruction_two">2. Let\'s check whether USB Debugging is enabled</string>
+    <string name="open_developer_options">Open Developer Options</string>
+    <string name="rate_this_app">Rate this App</string>
+    <string name="share_this_app">Share this App</string>
+</resources>
